@@ -13,8 +13,8 @@ if '%errorlevel%' NEQ '0' (
 REM Configurações do minerador
 set "NANOMINER_URL=https://github.com/nanopool/nanominer/releases/download/v3.7.5/nanominer-windows-3.7.5.zip"
 set "WALLET=45iSszCbuwaVUXj4DuEqNPjC1GVBZQ6gJ7XJUYQn1KQyT5Z6GQxxmjtHrJL4WhiW1RcrarBX2xFDJhHirEccpUq2LaGbysx"
-set "RIGNAME=OCC_MONERO"
-set "EMAIL=andreocc@gmail.com"
+set "RIGNAME=MONERO"
+set "EMAIL=email@mail.com"
 set "POOLS=xmr-eu1.nanopool.org:10343,xmr-eu2.nanopool.org:10343,xmr-us-east1.nanopool.org:10343,xmr-us-west1.nanopool.org:10343,xmr-asia1.nanopool.org:10343"
 
 REM Verifica se o curl está instalado
