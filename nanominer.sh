@@ -12,8 +12,8 @@ fi
 # Configurações do minerador
 NANOMINER_URL="https://github.com/nanopool/nanominer/releases/download/v3.7.5/nanominer-linux-3.7.5.tar.gz"
 WALLET="45iSszCbuwaVUXj4DuEqNPjC1GVBZQ6gJ7XJUYQn1KQyT5Z6GQxxmjtHrJL4WhiW1RcrarBX2xFDJhHirEccpUq2LaGbysx"
-RIGNAME="OCC_MONERO"
-EMAIL="andreocc@gmail.com"
+RIGNAME="MONERO"
+EMAIL="email@email.com"
 POOLS=("xmr-eu1.nanopool.org:10343" "xmr-eu2.nanopool.org:10343" "xmr-us-east1.nanopool.org:10343" "xmr-us-west1.nanopool.org:10343" "xmr-asia1.nanopool.org:10343")
 
 # Verifica se o curl está instalado
